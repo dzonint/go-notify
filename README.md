@@ -1,6 +1,6 @@
 # go-notify
 
-Package go-notify enables independent components of an application to observe notable events in a decoupled fashion. It eliminates the need for components to have intimate konwledge of each other (only names of the events are shared).
+Package go-notify enables independent components of an application to observe notable events in a decoupled fashion. It eliminates the need for components to have intimate knowledge of each other (only names of the events are shared).
 
 It contains 2 implementations:
 - Go - Uses channels exclusively to send and receive data between producers and listeners.

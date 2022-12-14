@@ -1,8 +1,8 @@
 package go_notify
 
 import (
-	go_notify "go-notify/go"
-	kafka_notify "go-notify/kafka"
+	go_notify "github.com/dzonint/go-notify/go"
+	kafka_notify "github.com/dzonint/go-notify/kafka"
 	"go.uber.org/zap"
 )
 

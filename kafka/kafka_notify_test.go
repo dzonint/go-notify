@@ -2,7 +2,7 @@ package kafka_notify
 
 import (
 	"github.com/pkg/errors"
-	"go-notifier/kafka/mocks"
+	"go-notify/kafka/mocks"
 	"testing"
 )
 

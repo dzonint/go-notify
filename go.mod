@@ -1,4 +1,4 @@
-module go-notify
+module github.com/dzonint/go-notify
 
 go 1.19
 

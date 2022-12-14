@@ -1,4 +1,4 @@
-package go_notify
+package notify
 
 import (
 	go_notify "github.com/dzonint/go-notify/go"
